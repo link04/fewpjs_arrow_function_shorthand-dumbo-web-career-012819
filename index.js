@@ -3,7 +3,7 @@ function divide(){
 }
 
 const square = (number) => {
-  return 12 * 12;
+  return number * number;
 }
 
 const add = (n1, n2) => {
